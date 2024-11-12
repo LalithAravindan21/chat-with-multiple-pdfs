@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "A simple RAG application to chat across documnets"
 authors = ["suyogdahal <suyogdahal46@gmail.com>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.10"
